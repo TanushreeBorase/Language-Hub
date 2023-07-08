@@ -1,0 +1,44 @@
+Data types are used to tell the variables the type of data they can store.
+
+🔲 Data types provide a way to categorize and organize data in a program, making it easier to understand and manage.
+
+Each data type has a specific range of values it can hold, allowing for more precise control over the type of data being stored.
+
+Data types help prevent errors and bugs in a program by enforcing strict rules about how data can be used and manipulated.
+
+
+🔲 Data Types in C++ are Mainly Divided into 3 Types: 
+1. Primitive Data Types: These data types are built-in or predefined data types and can be used directly by the user to declare variables. 
+example: int, char, float, bool, etc.
+
+Primitive data types available in C++ are: 
+
+Integer: The keyword used for integer data types is int.
+Integers typically require 4 bytes of memory space and range from -2147483648 to 2147483647.  
+
+Character: Character data type is used for storing characters.
+The keyword used for the character data type is char. Characters typically require 1 byte of memory space and range from -128 to 127 or 0 to 255.  
+
+Boolean: Boolean data type is used for storing Boolean or logical values. 
+ A Boolean variable can store either true or false.  The keyword used for the Boolean data type is bool. 
+
+Floating Point: Floating Point data type is used for storing single-precision floating-point values or decimal values. 
+The keyword used for the floating-point data type is float. Float variables typically require 4 bytes of memory space. 
+
+Double Floating Point: Double Floating Point data type is used for storing double-precision floating-point values or decimal values. 
+The keyword used for the double floating-point data type is double. Double variables typically require 8 bytes of memory space. 
+
+void: Void means without any value. void data type represents a valueless entity.A void data type is used for those function which does not return a value. 
+
+sizeof() operator: sizeof() operator is used to find the number of bytes occupied by a variable/data type in computer memory.
+
+
+Data type modifiers:
+Datatype modifiers are used with built-in data types to modify the length of data that a particular data type can hold. 
+Data type modifiers available in C++ are: 
+
+Signed
+Unsigned
+Short
+Long
+
