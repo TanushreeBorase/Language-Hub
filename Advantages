@@ -1,0 +1,35 @@
+Advantages:
+
+1) One of the key features of C++ is its ability to support low-level, system-level programming,
+  making it suitable for developing operating systems, device drivers, and other system software.
+
+2) C++ also provides a rich set of libraries and features for high-level application programming, 
+  making it a popular choice for developing desktop applications, video games, and other complex applications.
+
+3) Templates: C++ templates allow developers to write generic code that can work with any data type,
+making it easier to write reusable and flexible code.
+
+4) Standard Template Library (STL): The STL provides a wide range of containers and algorithms for working
+with data, making it easier to write efficient and effective code.
+
+5) Exception Handling: C++ provides robust exception handling capabilities, making it easier to write 
+code that can handle errors and unexpected situations.
+
+6) C++ programs excel in execution speed. Since, it is a compiled language, and also hugely procedural. 
+
+7) It is a simple language in the sense that programs can be broken down into logical units and parts.
+
+
+ --> In C++ input and output are performed in the form of a sequence of bytes or more commonly known as streams.
+
+Input Stream: If the direction of flow of bytes is from the device(for example, Keyboard) to the main memory then this process is called input.
+Output Stream: If the direction of flow of bytes is opposite, i.e. from main memory to device( display screen ) then this process is called output.
+
+
+Un-buffered standard error stream (cerr): The C++ cerr is the standard error stream that is used to output the errors.
+This is also an instance of the iostream class.
+As cerr in C++ is un-buffered so it is used when one needs to display the error message immediately. 
+It does not have any buffer to store the error message and display it later.
+
+
+
